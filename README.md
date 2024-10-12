@@ -1,7 +1,8 @@
 # Kaggle: Housing Price Analysis - Linear Regression and Clustering Techniques
 
 ## Introduction
-This report presents an analysis of housing prices using a dataset from Kaggle. The goal is to explore factors influencing house prices through correlation analysis, develop a linear regression model to predict house prices, and apply clustering to identify distinct groups of houses.
+Welcome to the repository for the Housing Price Analysis project. This repository showcases an approach to analyzing housing prices using Python, with a focus on correlation analysis, linear regression, and clustering techniques.
+This project was developed as part of my exploration into predictive modeling and clustering techniques in Python. Additionally, I created a PowerPoint presentation summarizing the key findings and insights from the project, which is included in this repository. I hope it provides a comprehensive overview of the work and helps in understanding housing data better.
 
 **Dataset Source:** [Kaggle Housing Dataset](https://www.kaggle.com/datasets/vikramamin/kc-house-dataset-home-prices)
 
